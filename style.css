@@ -1,0 +1,9 @@
+canvas{
+    border: black 2px dashed;
+    background-color: white;
+}
+
+h3{
+    font-size: 25px !important;
+    color: black !important;
+}
